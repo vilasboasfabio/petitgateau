@@ -9,10 +9,14 @@ body {
     background-color:antiquewhite;
     text-align: center;
     padding: 5%;
+    border: solid;
+    border-radius: 5%;
 }
 #img2 {
     display: flex;
     background-color: antiquewhite;
     text-align: center;
     padding: 5%;
+    border: solid;
+    border-radius: 5%;
 }
