@@ -1,0 +1,14 @@
+/*deixando os itens centralizados*/
+body{
+    text-align: center;
+    margin-top: 8%;
+/*mudando a cor do botão*/
+}
+input{
+    background-color: white;
+/*alterando a cor do botão quando passar o cursor por cima do botão*/
+}
+#voltar:hover{
+    background-color: goldenrod;
+
+}
