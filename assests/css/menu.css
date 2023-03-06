@@ -1,0 +1,54 @@
+/*aqui é estilização do banner com a promoção principal*/
+body {
+    background-color: whitesmoke;
+}
+#art1 {
+    background-color: bisque;
+    display: flex;
+    box-shadow: 10px 5px grey;
+    height: auto;
+    width: 80%;
+    margin: auto;
+    ;
+}
+/*estilizção do conteudo no banner da promoção principal*/
+#promo1 {
+    margin-left: 10%;
+    width: 20%;
+    margin-top: 2%;
+    margin-bottom: 2%;
+    border: 5px 5px outset grey;
+}
+#promo01 {
+    width: 80%;
+    margin-top: 2%;
+    margin-bottom: 2%;
+    margin-left: 2%;
+    text-align: justify;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 14px;
+    margin-right: 2%;
+   
+}
+/*Estilização dos banners com as imagens e descrição dos produtos do nosso cardápio*/
+#a01 {
+    display: flex;
+    flex-direction: column;
+    width: 33%;
+    background-color: bisque;
+    text-align: justify;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-top: 3%;
+    margin: 3%;
+    align-items: center;
+}
+main {
+    display: flex;
+    width: 99%;
+    margin: auto;
+    background-color: whitesmoke;
+}
+ section {
+    width: 80%;
+    margin-top: 3%;
+ }
