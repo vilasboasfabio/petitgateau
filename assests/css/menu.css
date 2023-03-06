@@ -5,7 +5,6 @@
 #se123 {
     background-color: bisque;
     width: 33%;
-    height:100px;
     margin:1%;
     border-radius:10px;
     border-left:7px goldenrod solid ;
@@ -15,7 +14,6 @@
 #se456 {
     background-color: bisque;
     width: 33%;
-    height:100px;
     margin:1%;
     border-radius:10px;
     border-left:7px goldenrod solid ;
@@ -29,11 +27,29 @@ body {
 .imagens123456 {
     border-radius:100%;
     margin-left:2%;
-    margin-top: 1%;
+    margin-top: 5%;
+    margin-bottom: 5%;
 }
 
 h1 {
     margin: 0;
     padding: 0;
     margin-left:2%;
+}
+
+h6 {
+    margin: 0;
+    padding: 0;
+    margin-left:2%;
+    margin-top: 2%;
+}
+
+.ltdl {
+    display: flex;
+}
+
+p {
+    text-align: justify;
+    margin-right:2%;
+    margin-left: 2%;
 }
