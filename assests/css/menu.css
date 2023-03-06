@@ -1,0 +1,27 @@
+.divisa123 {
+    display: flex;
+}
+
+#se123 {
+    background-color: bisque;
+    width: 33%;
+    height:100px;
+    margin:1%;
+    border-radius:10px;
+    border-left:7px goldenrod solid ;
+    color:black;
+}
+
+#se456 {
+    background-color: bisque;
+    width: 33%;
+    height:100px;
+    margin:1%;
+    border-radius:10px;
+    border-left:7px goldenrod solid ;
+    color:black;
+}
+
+body {
+    background-color: whitesmoke;
+}
