@@ -147,3 +147,12 @@ p {
     margin-left: 2%;
     margin-right: 2%;
 }
+#ifooter {
+   margin: -15px;
+   width: 100%;
+}
+iframe {
+    border:0;
+    margin:0;
+    padding: 0;
+}
