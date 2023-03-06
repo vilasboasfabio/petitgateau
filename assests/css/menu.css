@@ -65,3 +65,69 @@ section {
     width: 80%;
     margin-top: 3%;
 }
+
+/*colocar os sections um do lado do outro*/
+.divisa123 {
+    display: flex;
+}
+
+/*feito para colocar a borda na esquerda e estilizar cada uma das sections de maneira padronizada*/
+#se123 {
+    background-color: bisque;
+    width: 33%;
+    margin:1%;
+    border-radius:10px;
+    border-left:7px goldenrod solid ;
+    color:black;
+    -webkit-box-shadow: 10px 10px 14px 4px rgba(0, 0, 0, 0.47);
+    -moz-box-shadow: 10px 10px 14px 4px rgba(0, 0, 0, 0.47);
+    box-shadow: 10px 10px 14px 4px rgba(0, 0, 0, 0.47);
+}
+
+/*feito para colocar a borda na esquerda e estilizar cada uma das sections de maneira padronizada*/
+#se456 {
+    background-color: bisque;
+    width: 33%;
+    margin:1%;
+    border-radius:10px;
+    border-left:7px goldenrod solid ;
+    color:black;
+    -webkit-box-shadow: 10px 10px 14px 4px rgba(0, 0, 0, 0.47);
+    -moz-box-shadow: 10px 10px 14px 4px rgba(0, 0, 0, 0.47);
+    box-shadow: 10px 10px 14px 4px rgba(0, 0, 0, 0.47);
+}
+
+/*deixar a imagem redonda e descolada das bordas*/
+.imagens123456 {
+    border-radius:100%;
+    margin-left:2%;
+    margin-top: 5%;
+    margin-bottom: 5%;
+}
+
+/*separado o titulo da esquerda do card*/
+#nome123456 {
+    margin: 0;
+    padding: 0;
+    margin-left:2%;
+}
+
+/*separado a data do titulo*/
+#data123456 {
+    margin: 0;
+    padding: 0;
+    margin-left:2%;
+    margin-top: 2%;
+}
+
+/*deixar data e titulo lado a lado texto e foto the same*/
+.ltdl {
+    display: flex;
+}
+
+/*deixar o texto organizado*/
+#coment123456 {
+    text-align: justify;
+    margin-right:2%;
+    margin-left: 2%;
+}
