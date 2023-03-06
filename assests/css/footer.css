@@ -7,7 +7,7 @@ body {
 
 /*Estilização do nosso rodapé*/
 footer {
-    background-color: black;
+    background-image:linear-gradient(gray, black);
     color: whitesmoke;
     text-align: center;
     margin: 0%;
