@@ -57,3 +57,13 @@ body {
     font-family: 'Times New Roman', Times, serif
 }
 
+iframe {
+    border:0;
+    margin:0;
+    padding: 0;
+}
+
+#ifooter {
+    margin-bottom: -5px;
+}
+
