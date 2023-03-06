@@ -13,7 +13,7 @@
     color:black;
 }
 
-
+/*feito para colocar a borda na esquerda e estilizar cada uma das sections de maneira padronizada*/
 #se456 {
     background-color: bisque;
     width: 33%;
@@ -23,10 +23,7 @@
     color:black;
 }
 
-body {
-    background-color: whitesmoke;
-}
-
+/*deixar a imagem redonda e descolada das bordas*/
 .imagens123456 {
     border-radius:100%;
     margin-left:2%;
@@ -34,12 +31,14 @@ body {
     margin-bottom: 5%;
 }
 
+/*separado o titulo da esquerda do card*/
 h1 {
     margin: 0;
     padding: 0;
     margin-left:2%;
 }
 
+/*separado a data do titulo*/
 h6 {
     margin: 0;
     padding: 0;
@@ -47,10 +46,12 @@ h6 {
     margin-top: 2%;
 }
 
+/*deixar data e titulo lado a lado texto e foto the same*/
 .ltdl {
     display: flex;
 }
 
+/*deixar o texto organizado*/
 p {
     text-align: justify;
     margin-right:2%;
