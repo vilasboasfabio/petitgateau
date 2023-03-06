@@ -3,6 +3,7 @@ body {
     bottom: 0%;
     margin: 0%;
     padding: 0%;
+    background-color: black;
 }
 
 /*Estilização do nosso rodapé*/
@@ -10,10 +11,10 @@ footer {
     background-color: black;
     color: whitesmoke;
     text-align: center;
-    margin: 0%;
-    bottom: 0%;
-    position: fixed;
+    margin-bottom: 0%;
     width: 100%;
+    height: auto;
+    margin-top: 0%;
 }
 
 /*Descrição dos direitos reservados*/
