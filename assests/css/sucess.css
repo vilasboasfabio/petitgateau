@@ -1,6 +1,7 @@
 /*deixando os itens centralizados*/
 body{
     text-align: center;
+    margin: 0;
 /*mudando a cor do botão*/
 }
 input{
@@ -18,4 +19,11 @@ input{
 /*colocando sombra no texto para dar um tchan*/
 h1{
     text-shadow: 5px 5px rgba(217, 165, 32, 0.36);
+}
+iframe{
+    border: 0;
+    margin: 0;
+}
+#iframef{
+    margin-top: 1.5%;
 }
