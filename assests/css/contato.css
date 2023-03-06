@@ -1,44 +1,54 @@
-form div{
+form div {
     display: flex;
     margin: auto;
     flex-direction: column;
     width: 50%;
-    
+
 }
-input{
+
+input {
     margin: 1%;
     background-color: white;
 }
-#caixatext1{
+
+#caixatext1 {
     width: 97%;
     border: double;
-   
-    
-    
-    
 }
-
-#enviar{
+#enviar {
     width: 40%;
     margin-left: 31%;
-    
+    background-color: goldenrod;
+    border: none;
+
 }
-#enviar:hover{
- background-color: goldenrod;
- 
+
+#enviar:hover {
+    background-color:white;
+    border: solid;
+
 }
-#caixataxt1{
+
+#caixataxt1 {
     height: 30px;
 }
-#mensag{
+
+#mensag {
     height: 50px;
     border: double;
 
 }
-#h1{
+
+#h1 {
     font-size: 300%;
     text-align: center;
+    text-shadow: 5px 5px rgba(217, 165, 32, 0.36);
 }
-body{
+
+body {
     margin-top: 8%;
+}
+
+#label {
+    font-family: 'Times New Roman', Times, serif
 }
