@@ -49,9 +49,11 @@ input {
 }
 /* estilização da página em geral*/
 body {
-    margin-top: 8%;
+    margin: 0%;
+
 }
 /* estilização dos títulos das caixas de texto*/
 #label {
     font-family: 'Times New Roman', Times, serif
 }
+
