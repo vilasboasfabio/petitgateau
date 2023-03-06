@@ -1,7 +1,9 @@
+/*colocar os sections um do lado do outro*/
 .divisa123 {
     display: flex;
 }
 
+/*feito para colocar a borda na esquerda e estilizar cada uma das sections de maneira padronizada*/
 #se123 {
     background-color: bisque;
     width: 33%;
@@ -10,6 +12,7 @@
     border-left:7px goldenrod solid ;
     color:black;
 }
+
 
 #se456 {
     background-color: bisque;
