@@ -76,6 +76,7 @@ section {
 }
 #mm {
     margin-top: 5%;
+    text-align: justify;
 }
 
 /*feito para colocar a borda na esquerda e estilizar cada uma das sections de maneira padronizada*/
@@ -141,4 +142,8 @@ section {
 hr {
     border: 6px double black;
     width: 100%;
+}
+p {
+    margin-left: 2%;
+    margin-right: 2%;
 }
