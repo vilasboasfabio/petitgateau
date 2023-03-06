@@ -9,12 +9,15 @@ input{
     margin: 1%;
     background-color: white;
 }
-.caixataxt1{
-    width: 40%;
+#caixatext1{
+    width: 97%;
     border: double;
+   
+    
     
     
 }
+
 #enviar{
     width: 40%;
     margin-left: 31%;
@@ -22,13 +25,20 @@ input{
 }
 #enviar:hover{
  background-color: goldenrod;
+ 
 }
 #caixataxt1{
     height: 30px;
 }
 #mensag{
     height: 50px;
+    border: double;
+
 }
 #h1{
     font-size: 300%;
+    text-align: center;
+}
+body{
+    margin-top: 8%;
 }
