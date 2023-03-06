@@ -28,6 +28,11 @@ body {
 
 .imagens123456 {
     border-radius:100%;
-    margin-top:5%;
     margin-left:1%;
+}
+
+h1 {
+    margin: 0;
+    padding: 0;
+    margin-left:2%;
 }
