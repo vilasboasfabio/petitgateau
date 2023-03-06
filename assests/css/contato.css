@@ -1,0 +1,34 @@
+form div{
+    display: flex;
+    margin: auto;
+    flex-direction: column;
+    width: 50%;
+    
+}
+input{
+    margin: 1%;
+    background-color: white;
+}
+.caixataxt1{
+    width: 40%;
+    border: double;
+    
+    
+}
+#enviar{
+    width: 40%;
+    margin-left: 31%;
+    
+}
+#enviar:hover{
+ background-color: goldenrod;
+}
+#caixataxt1{
+    height: 30px;
+}
+#mensag{
+    height: 50px;
+}
+#h1{
+    font-size: 300%;
+}
