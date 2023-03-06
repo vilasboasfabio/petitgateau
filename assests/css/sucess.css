@@ -10,10 +10,12 @@ input{
 #voltar:hover{
     background-color: white;
 }
+/*deixando o botão igual a aba de feedback*/
 #voltar{
     background-color: goldenrod;
     border: none;
 }
+/*colocando sombra no texto para dar um tchan*/
 h1{
     text-shadow: 5px 5px rgba(217, 165, 32, 0.36);
 }
