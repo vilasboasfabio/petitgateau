@@ -1,0 +1,60 @@
+/*essa estilização tira a margem ao redor do header (evita erros)*/
+body {
+    margin: 0;
+    padding: 0;
+}
+
+/*estilização para centralização e cor do header*/
+header {
+    margin: 0;
+    padding: 0;
+    background-color:black;
+    width:100%;
+    height:100%;
+    position:fixed;
+}
+
+/* animar a logo de maneira a rotacionar*/
+@keyframes loading {
+	0% {
+		transform: rotate(0);
+	}
+	100% {
+		transform: rotate(360deg);
+	}
+}
+
+/* centralizar e animar a logo*/
+#img1 {
+    animation: loading 1s alternate;
+    margin-left:48%;
+    margin-top: 1%;
+}
+
+/*alinhar e distanciar os navs da esquerda da tela*/
+ul {
+    list-style: none;
+    display:flex;
+    margin:auto;
+    margin-left:40% ;
+}
+
+/*aumentar o tamanho, distanciar os navs*/
+li {
+margin-left:2%;
+font-style: none;
+font-size:25px;
+}
+
+/*tirar o sublinhado e colocar cor no texto*/
+a {
+    color:white;
+    text-decoration: none;
+}
+
+/*cor de fundo e botão redondo quando o mouse ta em cima*/
+#nav1:hover {
+    background: rgb(74, 74, 74);
+    border-radius: 10%;
+    transition:1s background;
+}
